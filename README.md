@@ -113,7 +113,7 @@ I’m **Akash Katte** — versatile data scientist recognized for blending **ana
 * 📫 Email: [akashkatte316@gmail.com](mailto:akashkatte316@gmail.com)
 * 💻 LeetCode: [akashkatte](https://leetcode.com/akashkatte)
 * 🏆 HackerRank: [akashkatte316](https://www.hackerrank.com/akashkatte316)
-* 📷 Instagram: [@akash\_\_katte](https://www.instagram.com/akash_katte7)
+* 📷 Instagram: [@akash_katte7](https://www.instagram.com/akash_katte7)
 
 ---
 
