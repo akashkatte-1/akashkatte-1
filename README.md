@@ -13,7 +13,7 @@
 
 I’m **Akash Katte** — versatile data scientist recognized for blending **analytical problem solving** with **leadership**. I’ve spearheaded AI-driven projects, mentored peers, and delivered solutions ranging from **RAG systems** to **NL2SQL pipelines**.
 
-> 🔭 Currently: **Data Science Trainee @ Gradious** & **Backend Developer Intern @ Rezoomex**
+> 🔭 Currently: **Program Analyst @ Cognizant** & **Developer @ Pathways to Parenthood**
 
 ---
 
