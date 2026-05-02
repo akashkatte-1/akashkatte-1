@@ -20,7 +20,7 @@ I’m **Akash Katte** — versatile data scientist recognized for blending **ana
 ## 🧰 Tech Stack & Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,mysql,postgres,flask,django,fastapi,git,github,docker,linux,aws" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,mysql,postgres,flask,django,fastapi,git,github,docker,aws" />
 </p>
 
 <p align="center">
